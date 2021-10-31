@@ -10,6 +10,7 @@ Current list:
 - asm.js
 - Ada
 - awk
+- BASIC
 
 # Goal
 
