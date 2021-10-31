@@ -9,6 +9,7 @@ Current list:
 - Malbolge Unshackled
 - asm.js
 - Ada
+- awk
 
 # Goal
 
