@@ -16,6 +16,7 @@ Current list:
 - COBOL
 - D
 - Fortran
+- Free Pascal
 - Go
 - Java
 - Julia
@@ -25,6 +26,7 @@ Current list:
 - Neko
 - Nickle
 - Malbolge Unshackled
+- Old Bash
 - x86 ELF32 binary
 - x86 GNU assembly
 
