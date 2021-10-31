@@ -14,6 +14,7 @@ Current list:
 - C#
 - csh
 - COBOL
+- D
 - Malbolge Unshackled
 
 # Goal
