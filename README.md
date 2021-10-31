@@ -16,8 +16,17 @@ Current list:
 - COBOL
 - D
 - Fortran
+- Go
+- Java
+- Julia
+- ksh
+- ksh88
+- Lua
+- Neko
+- Nickle
 - Malbolge Unshackled
 - x86 ELF32 binary
+- x86 GNU assembly
 
 # Goal
 
