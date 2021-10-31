@@ -7,6 +7,8 @@ Current list:
 - asm2bf
 - brainfuck
 - Malbolge Unshackled
+- asm.js
+- Ada
 
 # Goal
 
