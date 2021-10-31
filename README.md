@@ -8,6 +8,10 @@ Current list:
 - brainfuck
 - Malbolge Unshackled
 
+# Goal
+
+Every program present in this repository has been synthetised from asm2bf source code. The repository is meant to be a demonstration of how powerful asm2bf can be when it comes to the platforms it targets.
+
 # Test cases
 
 ```
