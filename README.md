@@ -33,7 +33,11 @@ Current list:
 - RC AT&T Plan9 shell
 - Ruby
 - Tcl
+- T-SQL
+- Swift
 - S-lang
+- Vala
+- Whitespace
 - x86 ELF32 binary
 - x86 GNU assembly
 
