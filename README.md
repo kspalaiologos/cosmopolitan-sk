@@ -12,6 +12,7 @@ Current list:
 - brainfuck
 - C
 - C#
+- csh
 - COBOL
 - Malbolge Unshackled
 
