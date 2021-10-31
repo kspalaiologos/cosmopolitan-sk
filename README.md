@@ -30,6 +30,9 @@ Current list:
 - Perl
 - PowerShell
 - Raku
+- RC AT&T Plan9 shell
+- Ruby
+- Tcl
 - x86 ELF32 binary
 - x86 GNU assembly
 
