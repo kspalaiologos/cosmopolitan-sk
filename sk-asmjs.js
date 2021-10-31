@@ -8589,7 +8589,7 @@ function BF(stdlib, ffi, heap) {
 		       JSinputPtr++;
 		       return c;
 		   }
-	}, new ArrayBuffer(4210688));
+	}, new ArrayBuffer(8388608));
 
 	if (BFprogram.run() == -1)
 	    process.exit(0);
