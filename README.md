@@ -28,6 +28,7 @@ Current list:
 - Malbolge Unshackled
 - Old Bash
 - Perl
+- PowerShell
 - Raku
 - x86 ELF32 binary
 - x86 GNU assembly
