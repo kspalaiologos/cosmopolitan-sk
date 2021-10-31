@@ -11,6 +11,7 @@ Current list:
 - Ada
 - awk
 - BASIC
+- BCDFuck
 
 # Goal
 
@@ -31,3 +32,7 @@ test "((((S(KS))((S(K(S(KS))))((S(K(S(KK))))((SK)K))))((SK)K))((SK)K))" "((S((S(
 ## Malbolge Unshackled
 
 Everything other than `(` and `K` is treated as `S`. The source file is `sk-malbolge.mb`. Use fast20 from kspalaiologos/malbolge-lisp repository.
+
+## BCDFuck
+
+Trivial brainfuck derivative; source code located in `sk-bcd.bcd`
