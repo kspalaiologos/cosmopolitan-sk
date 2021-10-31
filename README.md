@@ -3,15 +3,16 @@
 Implementing SK calculus in as many languages as possible.
 
 Current list:
-- C
 - asm2bf
-- brainfuck
-- Malbolge Unshackled
 - asm.js
 - Ada
 - awk
 - BASIC
 - BCDFuck
+- brainfuck
+- C
+- COBOL
+- Malbolge Unshackled
 
 # Goal
 
