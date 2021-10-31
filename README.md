@@ -15,7 +15,9 @@ Current list:
 - csh
 - COBOL
 - D
+- Fortran
 - Malbolge Unshackled
+- x86 ELF32 binary
 
 # Goal
 
