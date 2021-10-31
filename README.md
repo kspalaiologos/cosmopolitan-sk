@@ -27,6 +27,8 @@ Current list:
 - Nickle
 - Malbolge Unshackled
 - Old Bash
+- Perl
+- Raku
 - x86 ELF32 binary
 - x86 GNU assembly
 
