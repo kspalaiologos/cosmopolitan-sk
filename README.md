@@ -34,6 +34,7 @@ Current list:
 - Ruby
 - Tcl
 - T-SQL
+- Seed Esolang
 - Swift
 - S-lang
 - Vala
@@ -64,3 +65,7 @@ Everything other than `(` and `K` is treated as `S`. The source file is `sk-malb
 ## BCDFuck
 
 Trivial brainfuck derivative; source code located in `sk-bcd.bcd`
+
+## Seed
+
+The ski-seed.seed program is a proof that the [Seed esoteric language](https://esolangs.org/wiki/Seed) is turing complete.
